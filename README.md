@@ -61,7 +61,7 @@ ukl_frontend_1/
 
 ### 2.1 Halaman Register
 
-![App Screenshot](/assets/register);
+![App Screenshot](/assets/register.png);
 
 ### 2.2 Halaman Register dengan Validasi
 
