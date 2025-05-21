@@ -79,7 +79,7 @@ ukl_frontend_1/
 
 ![App Screenshot](/assets/my-profile.png);
 
-### 3.2 Halaman My Profile ketika ingin update profile dengan Validasi
+### 3.2 Halaman My Profile ketika ingin update profile dengan validasi
 
 ![App Screenshot](/assets/my-profile_check.png);
 
@@ -99,16 +99,13 @@ ukl_frontend_1/
 
 ![App Screenshot](/assets/matkul.png);
 
-### 4.2 Halaman Matkul dengan Validasi
+### 4.2 Halaman Matkul dengan validasi
 
 ![App Screenshot](/assets/matkul-validate.png);
 
-### 4.3 Halaman Matkul ketika succes
+### 4.3 Halaman Matkul ketika sukses
 ![App Screenshot](/assets/matkul-succes.png);
 
-### 4.4 Halaman My Profile ketika terupdate
-
-![App Screenshot](/assets/my-profile_updated.png);
 
 ## Cara Menjalankan Proyek
 
