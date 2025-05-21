@@ -47,25 +47,52 @@ ukl_frontend_1/
 
 ## Screenshots
 
-### Halaman Login
+### 1.1 Halaman Login
 
 ![App Screenshot](/assets/login.png);
 
-### Halaman Register
+### 1.2 Halaman Login Dengan Validasi 
 
-[Register Page Screenshot]
+![App Screenshot](/assets/login-check.png);
 
-### Halaman Profil
+### 1.3 Halaman Login Ketika Akun Salah
 
-[Profile Page Screenshot]
+![App Screenshot](/assets/login-invalid.png);
 
-### Halaman Pemilihan Mata Kuliah
+### 2.1 Halaman My Profile
 
-[Course Selection Page Screenshot]
+![App Screenshot](/assets/my-profile.png);
 
-### Dialog Konfirmasi
+### 2.2 Halaman My Profile ketika ingin update profile dengan Validasi
 
-[Confirmation Dialog Screenshot]
+![App Screenshot](/assets/my-profile_check.png);
+
+### 2.3 Halaman My Profile ketika ingin update profile jika sukses
+
+![App Screenshot](/assets/my-profile_succes.png);
+
+### 2.4 Halaman My Profile ketika terupdate
+
+![App Screenshot](/assets/my-profile_updated.png);
+
+### 2.4 Halaman My Profile ketika ingin logout
+
+![App Screenshot](/assets/my-profile_logout.png);
+
+### 3.1 Halaman Matkul
+
+![App Screenshot](/assets/matkul.png);
+
+### 3.2 Halaman Matkul dengan Validasi
+
+![App Screenshot](/assets/matkul_validate.png);
+
+### 3.3 Halaman Matkul ketika succes
+![App Screenshot](/assets/matkul-succes.png);
+
+### 3.4 Halaman My Profile ketika terupdate
+
+![App Screenshot](/assets/my-profile_updated.png);
 
 ## Cara Menjalankan Proyek
 
