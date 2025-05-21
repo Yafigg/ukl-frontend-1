@@ -75,38 +75,38 @@ ukl_frontend_1/
 
 ![App Screenshot](/assets/register_succes.png);
 
-### 2.1 Halaman My Profile
+### 3.1 Halaman My Profile
 
 ![App Screenshot](/assets/my-profile.png);
 
-### 2.2 Halaman My Profile ketika ingin update profile dengan Validasi
+### 3.2 Halaman My Profile ketika ingin update profile dengan Validasi
 
 ![App Screenshot](/assets/my-profile_check.png);
 
-### 2.3 Halaman My Profile ketika ingin update profile jika sukses
+### 3.3 Halaman My Profile ketika ingin update profile jika sukses
 
 ![App Screenshot](/assets/my-profile_succes.png);
 
-### 2.4 Halaman My Profile ketika terupdate
+### 3.4 Halaman My Profile ketika terupdate
 
 ![App Screenshot](/assets/my-profile_updated.png);
 
-### 2.5 Halaman My Profile ketika ingin logout
+### 3.5 Halaman My Profile ketika ingin logout
 
 ![App Screenshot](/assets/my-profile_logout.png);
 
-### 3.1 Halaman Matkul
+### 4.1 Halaman Matkul
 
 ![App Screenshot](/assets/matkul.png);
 
-### 3.2 Halaman Matkul dengan Validasi
+### 4.2 Halaman Matkul dengan Validasi
 
 ![App Screenshot](/assets/matkul-validate.png);
 
-### 3.3 Halaman Matkul ketika succes
+### 4.3 Halaman Matkul ketika succes
 ![App Screenshot](/assets/matkul-succes.png);
 
-### 3.4 Halaman My Profile ketika terupdate
+### 4.4 Halaman My Profile ketika terupdate
 
 ![App Screenshot](/assets/my-profile_updated.png);
 
