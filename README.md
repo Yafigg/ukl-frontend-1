@@ -6,7 +6,7 @@
 
 ## Deskripsi Proyek
 
-UKL Frontend adalah aplikasi mobile yang dibuat dengan Flutter untuk memudahkan seseorang dalam mengelola profil dan memilih mata kuliah. Aplikasi ini dibangun sebagai hasil dari Ujian Kenaikan Level (UKL) oleh Cipto Yafig Adiwongso dari kelas XI RPL 3 SMK Telkom Malang, dengan fokus pada pengembangan frontend yang terintegrasi dengan API.
+UKL Kelas XI RPL 3 SMK Telkom Malang 2025.
 
 ## Fitur Utama
 
@@ -49,7 +49,7 @@ ukl_frontend_1/
 
 ### Halaman Login
 
-[Login Page Screenshot]
+![App Screenshot](/assets/login.png);
 
 ### Halaman Register
 
