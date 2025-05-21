@@ -59,6 +59,22 @@ ukl_frontend_1/
 
 ![App Screenshot](/assets/login-invalid.png);
 
+### 2.1 Halaman Register
+
+![App Screenshot](/assets/register);
+
+### 2.2 Halaman Register dengan Validasi
+
+![App Screenshot](/assets/register_validate.png);
+
+### 2.3 Halaman Register dengan validasi file gambar
+
+![App Screenshot](/assets/register_validate-picture.png);
+
+### 2.4 Halaman Register ketika sukses registrasi
+
+![App Screenshot](/assets/register_succes.png);
+
 ### 2.1 Halaman My Profile
 
 ![App Screenshot](/assets/my-profile.png);
@@ -75,7 +91,7 @@ ukl_frontend_1/
 
 ![App Screenshot](/assets/my-profile_updated.png);
 
-### 2.4 Halaman My Profile ketika ingin logout
+### 2.5 Halaman My Profile ketika ingin logout
 
 ![App Screenshot](/assets/my-profile_logout.png);
 
@@ -85,7 +101,7 @@ ukl_frontend_1/
 
 ### 3.2 Halaman Matkul dengan Validasi
 
-![App Screenshot](/assets/matkul_validate.png);
+![App Screenshot](/assets/matkul-validate.png);
 
 ### 3.3 Halaman Matkul ketika succes
 ![App Screenshot](/assets/matkul-succes.png);
